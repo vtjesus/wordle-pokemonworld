@@ -1,0 +1,27 @@
+{
+  "input-placeholder": "Psyduck...",
+  "input-label": "Escribe el nombre de un Pokémon",
+  "search-btn": "Buscar",
+  "back-btn": "Volver al inicio",
+  "reset-btn": "Reiniciar partida",
+  "not-found": "No se encontraron Pokemon",
+  "remaining": "Intentos restantes {{turn}}",
+  "selected-generations": "Generaciones elegidas",
+  "headers": {
+    "sprite": "Sprite",
+    "pokemon": "Pokémon",
+    "generation": "Generación",
+    "types": "Tipos",
+    "types-tooltip": "Tipos del Pokémon. Si tiene dos, ambos se mostrarán.",
+    "height": "Altura",
+    "height-tooltip": "Comparación de altura con el Pokémon seleccionado.",
+    "weight": "Peso",
+    "weight-tooltip": "Comparación de peso con el Pokémon seleccionado.",
+    "evos": "Pre-Evo",
+    "evos-tooltip": "Indica si el Pokémon tiene pre-evolución.",
+    "rare": "Especial",
+    "rare-tooltip": "Indica si es una forma regional o especial."
+  },
+  "has-evos": "Tiene",
+  "hasnt-evos": "No"
+}
